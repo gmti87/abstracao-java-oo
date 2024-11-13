@@ -1,0 +1,27 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package br.com.desafio.dominio;
+
+public class Mentoria {
+    private java.lang.String titulo;
+    private java.lang.String descricao;
+    private java.time.LocalDate data;
+
+    public Mentoria() { /* compiled code */ }
+
+    public java.lang.String getTitulo() { /* compiled code */ }
+
+    public void setTitulo(java.lang.String titulo) { /* compiled code */ }
+
+    public java.lang.String getDescricao() { /* compiled code */ }
+
+    public void setDescricao(java.lang.String descricao) { /* compiled code */ }
+
+    public java.time.LocalDate getData() { /* compiled code */ }
+
+    public void setData(java.time.LocalDate data) { /* compiled code */ }
+
+    public java.lang.String toString() { /* compiled code */ }
+}
